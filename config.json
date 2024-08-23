@@ -1,10 +1,10 @@
 {
-  "token": "enter account token",
+  "token": ,"MTE2NTg3ODEwNjU1MzMyMzYwMg.Gj1HWQ.ppHaGKeLxJaTXj9fvcNC9>
   "prefix": ">",
   "settings": {
     "channel_ids":[
-      1253727886800588820,
-      1270754511362850817
+      1274010257303011389,
+      1274010257303011389,
     ],
       "channel_change_interval": [5, 15],
       "animal_types": "all",
